@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TreePointsGPSandSpinner</string>
+    <string-array name="tree_spinner_options">
+        <item name="pine">Pine</item>
+        <item name="water_oak">Water Oak</item>
+        <item name="sweet_gum">Sweet Gum</item>
+        <item name="maple">Maple</item>
+        <item name="hickory">Hickory</item>
+    </string-array>
+</resources>
